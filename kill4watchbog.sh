@@ -20,7 +20,7 @@
 # bwblack@blackrangersoftware.com
 #!/bin/bash
 # run this command, without the quotes
-#  "while true ; do killall watchdog ; done"
+#  "while true ; do killall watchbog ; done"
 # prior to running this script
 # so that that process is already killed
 
